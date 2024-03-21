@@ -1,0 +1,22 @@
+h1{
+    color:rgb(255, 0, 60);
+    font-size :2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color:rgb(140, 38, 38);
+    font-size:large;
+}
+p{
+    background-color: rgb(255, 123, 0);
+    text-transform: uppercase;
+}
+body{
+    font-size:small;
+    font-style: italic;
+}
+li{
+    margin:0cm;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger
+}
