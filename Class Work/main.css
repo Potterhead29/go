@@ -1,0 +1,19 @@
+div{
+    height: 200px;
+    width: 200px;
+    border-color: darkgray;
+    background-color: darkmagenta;
+    margin-top:50px;
+    padding-top:20px;
+
+}
+div#second{
+    float:right;
+    background-color: blue;
+}
+div#first{
+    position:absolute;
+    top:50px;
+    left:325px;
+    background-color: antiquewhite;
+}
